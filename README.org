@@ -3,8 +3,8 @@
 #+html: <a href="https://www.gnu.org/software/emacs/"><img alt="GNU Emacs" src="https://github.com/minad/corfu/blob/screenshots/emacs.svg?raw=true"/></a>
 #+html: <a href="https://elpa.nongnu.org/nongnu/elfeed-web.html"><img alt="NonGNU ELPA" src="https://elpa.nongnu.org/nongnu/elfeed-web.svg"/></a>
 #+html: <a href="https://elpa.nongnu.org/nongnu-devel/elfeed-web.html"><img alt="NonGNU-devel ELPA" src="https://elpa.nongnu.org/nongnu-devel/elfeed-web.svg"/></a>
-#+html: <a href="https://melpa.org/#/elfeed-web"><img alt="MELPA" src="https://melpa.org/packages/elfeed-web-badge.svg"/></a>
-#+html: <a href="https://stable.melpa.org/#/elfeed-web"><img alt="MELPA Stable" src="https://stable.melpa.org/packages/elfeed-web-badge.svg"/></a>
+#+html: <a href="https://releases.melpa.org/#/elfeed-web"><img alt="MELPA Releases" src="https://releases.melpa.org/packages/elfeed-web-badge.svg"/></a>
+#+html: <a href="https://snapshots.melpa.org/#/elfeed-web"><img alt="MELPA Snapshots" src="https://snapshots.melpa.org/packages/elfeed-web-badge.svg"/></a>
 
 This is a demonstration/toy web interface for Elfeed remote network access. It's
 a single-page web application that follows the database live as new entries
